@@ -1,0 +1,19 @@
+body{
+    background: #fcc302;
+    font-family:sans-serif;
+    color: black;
+    margin: 0;
+    padding: 20px;
+    height: 700px;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+div{
+    padding: 17px;
+
+}
+
+

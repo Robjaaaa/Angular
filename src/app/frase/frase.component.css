@@ -1,0 +1,73 @@
+body{
+    background: #fcc302;
+    
+    font-family:sans-serif;
+    color: white;
+    margin: 0;
+    padding: 1px;
+    height: 700px;
+    
+
+
+}
+
+
+.navegacion:hover{
+    background-color: #01bdc9;
+
+}
+
+
+
+
+a{
+    text-decoration:none;
+    color: white;
+}
+
+.parrafos{
+    margin-left: 300px;
+
+}
+
+.text1{
+    font-size: 40px;
+
+}
+
+.text2{
+    font-size: 20px;
+    
+
+}
+
+.doggy{
+    float: right;
+    margin-right: 300px;
+    height: 450px;
+    width: 410;
+}
+
+
+
+.botones{
+    display: flex;
+    margin-left: 300px;
+
+}
+
+.contactos {
+    color: white;
+    text-decoration: none;
+    border: 3px solid white;
+    border-radius: 10px;
+    font-size: 17px;
+    padding: 10px;
+    margin-left: 15px;
+    
+}
+
+.contactos:hover{
+    background-color: #01bdc9;
+
+}
